@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div align="center">
-<a href="https://github.com/mtaltunkanat" target="_blank">
+<a href="https://github.com/mttaltunkanat" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/muhammed-taha-altunkanat-9b1b4627a/" target="_blank">
@@ -76,8 +76,8 @@
  <tr>
 <table>
  <tr>
-  <td><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtaltunkanat&show_icons=true&locale=en&layout=compact" alt="mtaltunkanat" /></p></td> 
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtaltunkanat&theme=blue-green"></td>
+  <td><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mttaltunkanat&show_icons=true&locale=en&layout=compact" alt="mttaltunkanat" /></p></td> 
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mttaltunkanat&theme=blue-green"></td>
  </tr>
 </table>
 
